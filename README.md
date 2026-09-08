@@ -11,6 +11,6 @@
 
 <p align="left">
   <a href="https://github.com/maoneart">
-    <img src="https://github-readme-stats.vercel.app/api?username=maoneart&show_icons=true&theme=radial&hide_border=true" alt="Hermawan GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maoneart&show_icons=true&theme=radial&hide_border=true" alt="Hermawan GitHub Stats" />
   </a>
 </p>
