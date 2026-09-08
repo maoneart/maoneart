@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @maoneart
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m @maoneart
+
+- 👀 **Interested in:** [Isi minat Anda, contoh: Web Development, UI/UX Design, Open Source]
+- 🌱 **Currently learning:** [Isi hal yang sedang dipelajari, contoh: React, TypeScript, Python]
+- 💞️ **Looking to collaborate on:** [Isi proyek impian, contoh: Innovative Web Apps, Creative Tech]
+- 📫 **How to reach me:** [Isi email atau media sosial, contoh: email@domain.com / Twitter @username]
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/maoneart"><img src="https://github-readme-stats.vercel.app/api?username=maoneart&hide_border=true&show_icons=true" alt="Hermawan github stats"></a>
+  <a href="https://github.com/maoneart">
+    <img src="https://github-readme-stats.vercel.app/api?username=maoneart&show_icons=true&theme=radial&hide_border=true" alt="Hermawan GitHub Stats" />
+  </a>
 </p>
